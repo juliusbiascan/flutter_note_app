@@ -12,9 +12,7 @@ This is Simple Note App using Flutter (bloc, http ) front end, Nodejs (Typescrip
 
 
 ## Screenshots
-
-[![App Screenshot]([Screenshot 2023-09-25 003638.png](https://github.com/juliusbiascan/flutter_note_app/blob/main/Screenshot%202023-09-25%20003638.png))
-](https://github.com/juliusbiascan/flutter_note_app/blob/main/Screenshot%202023-09-25%20003638.png)
+![App](https://github.com/juliusbiascan/flutter_note_app/blob/main/Screenshot%202023-09-25%20003638.png)
 
 ## License
 
@@ -25,7 +23,7 @@ This is Simple Note App using Flutter (bloc, http ) front end, Nodejs (Typescrip
 
 Clone the project
 
-```bash
+`https://github.com/juliusbiascan/flutter_note_app/blob/main/Screenshot%202023-09-25%20003638.png``bash
   git clone https://link-to-project
 ```
 
